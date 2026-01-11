@@ -84,11 +84,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Khushboo%20Kumari-0A66C2?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/khushboo-kumari-15557b279/)
 [![Gmail](https://img.shields.io/badge/Gmail-khushbookumari200314@gmail.com-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:khushbookumari200314@gmail.com)
 
----
 
-### 🔥 GitHub Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=khusboo06&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
 
 
 ---
