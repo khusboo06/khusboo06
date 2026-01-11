@@ -64,19 +64,19 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws)
 
 
-🛠 Tech Stack
+#### 🛠 Tech Stack
 
-💻 Languages: C, C++, JavaScript
+#### 💻 Languages: C, C++, JavaScript
 
-🎨 Frontend: HTML, CSS, React, Tailwind CSS
+#### 🎨 Frontend: HTML, CSS, React, Tailwind CSS
 
-⚙️ Backend: Node.js, Express.js
+#### ⚙️ Backend: Node.js, Express.js
 
-🗄 Database: MongoDB, MySQL
+####  🗄 Database: MongoDB, MySQL
 
-🧰 Tools: Git, GitHub, Postman, VS Code
+####  🧰 Tools: Git, GitHub, Postman, VS Code
 
-🔑 Others: JWT, Cloudinary, REST APIs, AWS Basics
+####  🔑 Others: JWT, Cloudinary, REST APIs, AWS Basics
 
 
 ---
