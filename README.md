@@ -9,9 +9,9 @@
 
 * 🎓 **B.Tech CSE** | 🇮🇳 India
 * 👩🏻‍💻 **MERN Stack Developer** (Frontend + Backend)
-* 🌱 Currently learning **React.js**, **Backend Development**, and exploring **AI/ML**
-* ☁️ **AWS Cloud Foundation & AWS AI/ML Certified**
-* 💟 Loves **badminton 🏸**, **painting 🎨**, and clean UI design
+* 🌱 Currently learning **React.js**, **Backend Development**
+* ☁️ **AWS Cloud Foundation & AWS**
+* 💟 Loves **badminton 🏸**, **painting 🎨**
 
 ---
 
@@ -50,15 +50,15 @@
 
 ### 🔗 Connect With Me
 
-* 💼 **GitHub:** [https://github.com/your-username](https://github.com/your-username)
-* 💬 **LinkedIn:** [https://linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-* 📫 **Email:** [your-email@example.com](mailto:your-email@example.com)
+* 💼 **GitHub:** [https://github.com/your-username](https://github.com/khusboo06)
+* 💬 **LinkedIn:** [https://linkedin.com/in/your-profile](https://www.linkedin.com/in/khushboo-kumari-15557b279/)
+* 📫 **Email:** [your-email@example.com](mailto:khushbookumari200314@gmail.com)
 
 ---
 
 ### 🔥 GitHub Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=your-username\&theme=tokyonight\&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=your-khusboo06\&theme=tokyonight\&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
